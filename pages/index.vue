@@ -1,6 +1,6 @@
 <!-- pages/index.vue -->
 <template>
-    <div>
+    <div class="container">
         <!-- Header Section -->
         <header>
             <div class="navbar">
